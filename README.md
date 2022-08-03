@@ -1,5 +1,5 @@
 # Camp Mivoden Mobile App Privacy Policy
-Last updated: July 30, 2022
+Last updated: August 3, 2022
 
 ## Data We Collect
 The only data we collect about a user is their email address. We will also create and keep unique identification keys for each user that are random and arbitrary.
