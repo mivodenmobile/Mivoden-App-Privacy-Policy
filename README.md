@@ -1,7 +1,28 @@
 # Camp Mivoden Mobile App Privacy Policy
 Last updated: July 30, 2022
 
-## Data we collect, process and use
-We collect a user's name, age, religious and church affiliation, and city and state of residence. Since people who use this app are nearly exclusively people who have visited the camp, we use this information for analytics.
+## Data We Collect
+The only data we collect about a user is their email address. We will also create and keep unique identification keys for each user that are random and arbitrary.
+
+## Data We Use
+The emails we collect are used to authenticate their account and reset their passwords. We will only email promotional and feature-update emails to users who have explicitely requested to receive them. We will email all users if there are updates to this privacy policy. 
+
+We use the unique user IDs we create to allow users to only read the user information they create.
+
+## How We Store the Data We Collect
+We use Google Firebase to store and secure the data we collect. You can read Firebase's privacy policy [here](https://firebase.google.com/support/privacy). We use Firebase's security rules language to control access to our information and user data we collect. We clearly define that a user with a certain ID can only read and write data to a location labeled with that certain ID.
+
+## Updating or Deleting User Data
+Any user can change the email address associated with their account on the profile tab of the app. There is also an option for them to delete their account, which will delete all information we store about that user.
+
+## Analytics Information
+We use Google Analytics through Firebase to keep track of user events in the app. These events include clicking on videos, tabs, and other things in the app. None of these actions are linked to the users who perform them. Google also keeps track of users' countries of origin and device models used, but this information is also anonymized and not linked to any other user information. You can read more about how Google uses this information [here](https://policies.google.com/technologies/partner-sites).
+
+## Other User Data Used By the App
+The app also uses a user's location to only show the mivoden map when the user is on campus. This location information is only used by the app and is not sent off to any other servers to be stored.
+
 ## Notification of Privacy Policy Updates
 We will notify all our users of any changes to our privacy policy via the email address provided with the app account.
+
+## Protect Your Data
+Always be sure to protect your login information. If another party acquires your email and password they can log in and change your password, requiring you to use your email to reset your password to get back in to the app.
